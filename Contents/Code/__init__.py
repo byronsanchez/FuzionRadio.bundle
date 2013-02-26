@@ -1,6 +1,6 @@
 ART = 'art-default.jpg'
 ICON = 'icon-default.jpg'
-NAME = 'FuzionRadio.fm'
+NAME = 'FuzionRadio.FM'
 STREAM_URL = 'http://live.fuzionradio.fm:8000/'
 
 ####################################################################################################
